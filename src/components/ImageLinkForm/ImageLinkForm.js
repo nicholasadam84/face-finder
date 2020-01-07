@@ -8,8 +8,8 @@ const ImageLinkForm = () => {
                 {'This App will detect faces in your pictures. Give it a try!'}
             </p>
             <div className="center">
-                <div className="form flex justify-center center pa4 br3 shadow-5 w-50">
-                    <input className="f4 pa2 w-70 center" type='text' />
+                <div className="form center pa4 br3 shadow-5">
+                    <input className="w-70 center f4 pa2" type='text' />
                     <button className="w-30 grow f4 link ph3 pv2 dib white bg-light-purple">Detect</button>
 
                 </div>
